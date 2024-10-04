@@ -1,7 +1,6 @@
 *.log
 .DS_Store
 node_modules
-dist
 
 .yarn/*
 !.yarn/releases
@@ -11,3 +10,4 @@ dist
 *.pnp
 
 .vscode/
+.idea
